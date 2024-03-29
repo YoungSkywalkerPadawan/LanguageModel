@@ -8,6 +8,11 @@
 
 Inference of [LLaMA](https://arxiv.org/abs/2302.13971) model in pure C/C++
 
+### start command
+
+ ./chat.sh models/chinese-alpaca-2-7b-hf/ggml-model-q4_0.gguf '作为一个 AI 助手，你可以帮助人类做哪些事情？'
+
+
 ### Hot topics
 
 - Collecting Apple Silicon performance stats:
